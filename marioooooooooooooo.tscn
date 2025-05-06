@@ -1,0 +1,9 @@
+[gd_scene load_steps=3 format=3 uid="uid://b7572220bt28i"]
+
+[ext_resource type="Texture2D" uid="uid://b2lv721tjlowu" path="res://marioooooooooooooo.png" id="1_iya2b"]
+[ext_resource type="Script" uid="uid://cy1wonuf6f7qh" path="res://marioooooooooooooo.gd" id="2_j05c6"]
+
+[node name="Marioooooooooooooo" type="Sprite2D"]
+scale = Vector2(0.0642857, 0.0643188)
+texture = ExtResource("1_iya2b")
+script = ExtResource("2_j05c6")
